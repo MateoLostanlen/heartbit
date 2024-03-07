@@ -1,0 +1,2 @@
+pyroclient @ git+https://github.com/pyronear/pyro-api.git@main#egg=pkg&subdirectory=client
+python-dotenv
